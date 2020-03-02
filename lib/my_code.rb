@@ -1,4 +1,5 @@
 # Your Code Here
-def map
+def map (array)
+  
   
 end  
