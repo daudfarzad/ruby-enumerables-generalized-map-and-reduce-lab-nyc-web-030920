@@ -1,6 +1,6 @@
 # Your Code Here
-def map (array)
-  new []
+def map(array)
+  new = []
   i = 0
   while i < array.length
     new.push(yield(array[i]))
@@ -21,9 +21,6 @@ def reduce (array,sv=nil)
   sum = yield(sum, array[i])
   i += 1
   end
-sum
+  sum
 end
   
-
-  
-end  
