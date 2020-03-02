@@ -9,7 +9,7 @@ def map (array)
   new
 end
   
-de
+def reduce (array,)
 
   
 end  
