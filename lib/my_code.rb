@@ -2,7 +2,7 @@
 def map (array)
   new []
   i = 0
-  while i <
+  while i < arra
 
   
 end  
